@@ -1,0 +1,6 @@
+# cpanfile
+
+requires 'DBI', 0;
+requires 'DBD::CSV', 0;
+requires 'Config::INI', 0.025;
+requires 'Log::Log4perl', 0;
